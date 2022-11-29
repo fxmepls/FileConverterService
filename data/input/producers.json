@@ -1,0 +1,112 @@
+{
+  "producers": [
+    {
+      "producer": {
+        "name": "Francis Ford Coppola",
+        "movies": [
+          {
+            "name": "The Godfather",
+            "country": "USA",
+            "releaseDate": "March 14, 1972",
+            "tags": [
+              "drama",
+              "crime"
+            ]
+          },
+          {
+            "name": "Dracula",
+            "country": "UK, USA",
+            "releaseDate": "2 Oct, 2018",
+            "tags": [
+              "horror",
+              "fantasy",
+              "melodrama"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "producer": {
+        "name": "Timur Bekmambetov",
+        "movies": [
+          {
+            "name": "Christmas trees",
+            "country": "Russia",
+            "releaseDate": "2010",
+            "tags": [
+              "comedy"
+            ]
+          },
+          {
+            "name": "Search",
+            "country": "USA, Russia",
+            "releaseDate": "January 21, 2018",
+            "tags": [
+              "detective",
+              "thriller",
+              "drama"
+            ]
+          },
+          {
+            "name": "Profile",
+            "country": "Russia, USA, UK, Cyprus",
+            "releaseDate": "February 17, 2018",
+            "tags": [
+              "thriller",
+              "detective"
+            ]
+          },
+          {
+            "name": "Farsi lessons",
+            "country": "Russia, Germany, Belarus",
+            "releaseDate": "April 8, 2021",
+            "tags": [
+              "drama",
+              "war",
+              "history"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "producer": {
+        "name": "Taika Waititi",
+        "movies": [
+          {
+            "name": "Thor: Love and Thunder",
+            "country": "Australia, USA",
+            "releaseDate": "June 23, 2022",
+            "tags": [
+              "science fiction",
+              "fantasy",
+              "action",
+              "melodrama",
+              "comedy",
+              "adventure"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "producer": {
+        "name": "Anthony Russo",
+        "movies": [
+          {
+            "name": "Avengers: Endgame",
+            "country": "USA",
+            "releaseDate": "April 22, 2019",
+            "tags": [
+              "fantasy",
+              "action",
+              "drama",
+              "adventure"
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}
